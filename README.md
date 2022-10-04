@@ -13,9 +13,16 @@
       * All data used in this project was from Telecom. It is a database full of various statistics regarding specific customers and which left and which stayed. 
 3. Visualizations
   One visualization (the same visualization is in the notebook)
-    * 
+    * ![Commission](Visualizations/FinalModel.png)
   Seven graphics exclusively for aesthetics in the Google Slides doc.
+    * ![OutlineVisual](Visualizations/OutlineVisual.jpg)
     * ![Commission](Visualizations/Commission.jpg)
+    * ![Commission](Visualizations/NewJersey.png)
+    * ![Commission](Visualizations/DataScience.png)
+    * ![Commission](Visualizations/California.png)
+    * ![Commission](Visualizations/Texas.png)
+    * ![Commission](Visualizations/Stress.png)
+    * ![Commission](Visualizations/IDC-world-map.jpg)
     * ![Questionmark](Visualizations/Questionmark.jpg)
 
 ## Conclusion
