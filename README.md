@@ -1,4 +1,4 @@
-# Project 2 - Maple Homes
+# Project 3 - Telecom Churn Model
 
 ## Overview
 1. This is GitHub repository represents the final project submission for Greg Osborne's Third project at FlatIron school. The project assignment was to analyze a selected set of data for churn rate predictions to present to Telecom.
