@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project 3 - Telecom Churn Classification Model
 
 ## Overview
