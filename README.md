@@ -1,7 +1,7 @@
 # Project 3 - Telecom Churn Classification Model
 
 ## Overview
-1. This is GitHub repository represents the final project submission for Greg Osborne's Third project at FlatIron school. The project assignment was to analyze a selected set of data for churn rate predictions to present to Telecom.
+1. This GitHub repository represents the final project submission for Greg Osborne's Third project at FlatIron school. The project assignment was to analyze a selected set of data for churn rate predictions to present to Telecom.
 ## Business Understanding
 1. Telecom wants to limit their customer departure rate, or churn rate, to as low as possible.
 2. I made business recommendations based on the following three variables:
